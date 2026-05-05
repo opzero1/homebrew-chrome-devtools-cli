@@ -1,5 +1,5 @@
 class ChromeDevtools < Formula
-  desc "Chrome DevTools Protocol CLI — auto-connects to existing Chrome"
+  desc "DevTools Protocol CLI that auto-connects to existing Chrome"
   homepage "https://github.com/opzero1/chrome-devtools-cli"
   version "0.1.4"
   license "MIT"
